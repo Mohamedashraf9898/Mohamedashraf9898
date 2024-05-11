@@ -2,7 +2,7 @@
 <img width="250" align="right" src="https://c.tenor.com/papK2E3wvMEAAAAd/fwow-ai.gif">
 
 <h3 align="center">
-  Welcome to Mohamed Abdelaty's profile!
+  Welcome to Mohamed Ashraf's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   
 </h3>
@@ -15,18 +15,17 @@
 
 - 🏢 I'm a Software Engineer BackEnd Developer (ASP.Net)
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 👨‍💻 Interested in MachineLearning/DeepLearning and Python
-- 💬 Ask me about my experience with C#, Python, .NetCore, MVC, and SQL or anything related to web development.
+- 💬 Ask me about my experience with C# , .NetCore, MVC, and SQL or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://mohamedabdelaty-98.github.io/myprotofilo/Index to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at  to see some of the projects I've worked on.
 
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/mohamedabdelaty98/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Abdelaty-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/ana.alamier.52" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Abdelaty-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="mailto:abdelatym775@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Abdelaty-0077B5?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
-<a href="https://wa.me/201022682159" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Abdelaty-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohamedashraf9898" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Ashraf-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/mahmed.ashraf.9699" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Ashraf-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="mailto:mohamedashraf171998@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Ashraf-0077B5?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
+<a href="https://wa.me/201024144092" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Ashraf-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5" alt="HTML">&nbsp;
